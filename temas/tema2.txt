@@ -1,0 +1,5 @@
+	El flujo dee trabajo básico con Git consiste en:
+	1- Hacer cambios en el repositorio. 
+	2- Añadir los cambios al 
+[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C*Stage*.
+	3- Hacer un *commit* de los cambios. 
